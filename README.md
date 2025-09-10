@@ -19,4 +19,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 **yes yes**<br>
+
 aku adalah anak gembaala
+
