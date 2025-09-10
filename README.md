@@ -20,4 +20,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 **yes yes**<br>
 
-selalu riang serta gembuira
+aku adalah anak gembaala
+
